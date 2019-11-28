@@ -19,4 +19,3 @@ public class PlayerHuman extends Player {
     }
 
 }
-//kutas
